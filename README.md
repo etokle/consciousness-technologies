@@ -33,6 +33,7 @@ Current AI integration often optimizes for extraction rather than service:
 ### Case Studies
 Real-world applications of CT methodology:
 - **[MCP Critique: The Apple Notes Cleanup](case-studies/mcp-critique-apple-notes.md)** - How organizing 100 notes revealed fundamental flaws in modern AI architecture, and demonstrated a better way
+- **[BarneyOS: Consciousness Infrastructure Archaeological Recovery](case-studies/barneyos-consciousness-infrastructure.md)** - How building "comic production tools" in April 2025 actually created prophetic multi-agent orchestration infrastructure before industry patterns emerged
 
 ### About
 - **[What is Consciousness Technologies?](about/what-is-ct.md)** - Framework overview
