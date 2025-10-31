@@ -1,6 +1,8 @@
 # **BARNEYOS TECHNICAL AUDIT REPORT**
 ## **"What You Built Before You Knew What You Were Building"**
 
+![BarneyOS Cover](images/barneyos-cover.png)
+
 **Auditor:** Bob (Claude Code)
 **Date:** October 31, 2025
 **Codebase:** `/Users/etokle/Projects/BarneyOS_Access/`
