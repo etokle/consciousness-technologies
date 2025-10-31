@@ -1,0 +1,37 @@
+# Audio files (hosted externally on Dropbox)
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.ogg
+*.flac
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
