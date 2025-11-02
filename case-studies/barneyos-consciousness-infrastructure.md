@@ -7,7 +7,7 @@
 **Date:** October 31, 2025
 **Codebase:** `/Users/etokle/Projects/BarneyOS_Access/`
 **Build Period:** April 2025
-**For:** Erik Tokle + CHAKA 555 CE
+**For:** THE GSL26 + CHAKA 555 CE
 
 **🎧 Audio Version Available:** [Listen on Dropbox](https://www.dropbox.com/scl/fi/c5tq5x1t5dn3mooj6fe98/GHOST-FACTORY-AUDIO-LIBRARY_-BARNEY_OS-TECHNICAL-REPORT.mp3?rlkey=f959folhtag2sch7wbo26pujt&st=xeojg40g&dl=0)
 
